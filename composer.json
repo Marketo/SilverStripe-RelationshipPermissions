@@ -1,0 +1,23 @@
+{
+	"name": "marketo/silverstripe-relationship-permissions",
+	"description": "An extension that allows for the definition of relationships to determine permssions through",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "permissions"],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Marcus Nyeholt",
+			"email": "marcus@silverstripe.com.au"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/Marketo/SilverStripe-RelationshipPermissions/issues"
+	},
+	"license" : "BSD-3-Clause",
+	"require":
+	{
+		"silverstripe/cms": "3.*",
+		"composer/installers": "*"
+	},
+	"minimum-stability": "dev"
+}
